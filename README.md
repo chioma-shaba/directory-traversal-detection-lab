@@ -142,20 +142,14 @@ The **4 outside-folder hits map exactly to the 4 Snort alerts** — detection an
 ---
 
 ## Demo
-## Evidence Screenshots
-
 ### 1. Successful Directory Traversal
 ![Successful directory traversal](images/01-directory-traversal-success.png)
 
-### 2. Snort Detection Rules
-![Snort detection rules](images/02-snort-detection-rules.png)
+### 2. Confidential Earnings Leaked
+![Confidential earnings leaked](images/02-confidential-earnings-leaked.png)
 
-### 3. Snort Alerts and Packet Analysis
-![Snort alerts and packet analysis](images/03-snort-alerts-and-packet-analysis.png)
+### 3. Snort Rule Fires 4 Times
+![Snort rule fires 4 times](images/03-snort-rule-fires-4x.png)
 
-### 4. Sensitive File Access and Detection
-![Sensitive file access and Snort alerts](images/04-sensitive-file-access-and=snort-alerts.png)
-
-📹 *Walkthrough recording:* `[add your video link here]`
-
-*(The recording explains each step in plain language — the exploit, the detection rule firing 4 times, the breach scope, and the fix.)*
+### 4. Breach Scope (Packet Analysis)
+![Breach scope](images/04-breach-scope-tcpdump.png)
