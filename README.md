@@ -142,6 +142,19 @@ The **4 outside-folder hits map exactly to the 4 Snort alerts** — detection an
 ---
 
 ## Demo
+## Evidence Screenshots
+
+### 1. Successful Directory Traversal
+![Successful directory traversal](images/01-directory-traversal-success.png)
+
+### 2. Snort Detection Rules
+![Snort detection rules](images/02-snort-detection-rules.png)
+
+### 3. Snort Alerts and Packet Analysis
+![Snort alerts and packet analysis](images/03-snort-alerts-and-packet-analysis.png)
+
+### 4. Sensitive File Access and Detection
+![Sensitive file access and Snort alerts](images/04-sensitive-file-access-and=snort-alerts.png)
 
 📹 *Walkthrough recording:* `[add your video link here]`
 
